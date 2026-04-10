@@ -1,3 +1,6 @@
+#Github repository: https://github.com/Spl4shd/Sprite-Previewer
+# (I didn't see the instruction at the top of the assignment to commit 4 times
+# throughout the assignment till after I finished.)
 
 import math
 
